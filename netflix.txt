@@ -1,0 +1,23 @@
+High Availability & Reliability
+
+Netflix achieved 99.99% uptime by automating infrastructure and embracing chaos engineering (e.g., Chaos Monkey).
+
+Faster Deployments
+
+Engineers deploy code thousands of times per day using CI/CD pipelines, reducing time-to-market drastically.
+
+Improved Scalability
+
+Transitioning to AWS and microservices allowed Netflix to scale to over 230 million subscribers globally without performance bottlenecks.
+
+Enhanced Collaboration
+
+Breaking down silos fostered a culture of shared responsibility between developers and operations.
+
+Rapid Innovation
+
+Teams experiment and roll out new features continuously, supporting Netflix’s edge in personalization and content delivery.
+
+Better User Experience
+
+Continuous monitoring and real-time feedback loops allow quick resolution of issues, ensuring smooth streaming experiences.
